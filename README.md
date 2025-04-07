@@ -1,4 +1,4 @@
 # Github-Pages-Project
-CSE110 github pages
+Darwin Smith's User Page
 
 I LOVE ASSEMBLY
