@@ -1,6 +1,6 @@
 # About Me - Darwin Smith
 
-![Profile Picture](INSERT_PROFILE_PICTURE_LINK_HERE)
+![Profile Picture](20240727_104421.jpg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -12,7 +12,7 @@
 ---
 
 ## Introduction
-> "Just a little awkward, pretty social, and always down to learn something new."
+> "lil awkward, but social, and always down to learn something new."
 
 Hey there! I'm a student in this Software Engineering class, and this page is a little about me — both as a programmer and just as a person.
 
@@ -23,7 +23,7 @@ Hey there! I'm a student in this Software Engineering class, and this page is a 
 ### How I Got Into Coding
 I started coding pretty early on in high school, mostly because it was fun to mess around and take community college courses with friends.
 
-> *"Learning to code felt like unlocking cheat codes for life."*
+> *"Learning to code made me feel so cool at that age."*
 
 ### Languages I've Used
 Here’s a quick rundown of my experience so far:
@@ -31,7 +31,7 @@ Here’s a quick rundown of my experience so far:
 - Python (Lots of experience)
 - Java (Good amount)
 - C (Decent experience)
-- JavaScript / HTML / CSS (Barely touched... for now)
+- JavaScript / HTML / CSS (Erm)
 
 #### Some sample Python code I wrote early on:
 ```python
@@ -62,18 +62,17 @@ Other things I’m into:
 - Gaming
 - Climbing
 - Backpacking / Wilderness Adventures
-- Hanging out with friends (even if I’m a little awkward sometimes)
+- Hanging out with homies
 
 ---
 
 ## Fun Facts
 
-> *"Scared of heights but loves climbing — go figure."*
+> *"Scared of heights but loves climbing — makes sense."*
 
 - I started coding early in high school with friends just for fun.
-- I’m social but can be kinda awkward at first.
 - I love both chill gaming nights and crazy outdoor adventures.
-- Definitely hoping for good team vibes in this class!
+- Definitely hoping for good team synergy in this class!
 
 ---
 
