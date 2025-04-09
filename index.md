@@ -78,6 +78,6 @@ Other things I’m into:
 
 ## Links
 
-- [My Favorite Game Website](INSERT_LINK_HERE)
-- [Cool Climbing Resource](INSERT_LINK_HERE)
+- [My Favorite Game Website](https://terraria.org/)
+- [What got me into Climbing a Few Years Ago](https://www.youtube.com/@magmidt)
 - [A Picture from Joshua Tree](INSERT_IMAGE_LINK_HERE)
