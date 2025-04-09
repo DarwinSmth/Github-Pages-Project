@@ -14,7 +14,7 @@
 ## Introduction
 > "lil awkward, but social, and always down to learn something new."
 
-Hey there! I'm a student in this Software Engineering class, and this page is a little about me — both as a programmer and just as a person.
+Hey there! I'm a student in CSE 110 this Spring quarter, and this page is a little about me — both as a programmer and just as a person.
 
 ---
 
@@ -55,7 +55,7 @@ Things I’m looking forward to:
 
 Outside of coding, I’m a pretty big gamer. I love getting lost in games with friends — but I’m also a huge fan of nature and being outdoors.
 
-One of my favorite hobbies lately has been climbing. I recently went on a big climbing trip to Joshua Tree, which was wild because I’m still super scared of heights. Climbing has been a cool way for me to push through that fear.
+Besides gaming, I love climbing. I recently went on a big climbing trip to Joshua Tree, which was crazy fun even though im crazy scared of heights. Climbing around like a monkey is always fun regardless.
 
 Other things I’m into:
 
@@ -78,6 +78,6 @@ Other things I’m into:
 
 ## Links
 
-- [My Favorite Game Website](https://terraria.org/)
+- [Peak Game](https://terraria.org/)
 - [What got me into Climbing a Few Years Ago](https://www.youtube.com/@magmidt)
-- [A Picture from Joshua Tree](INSERT_IMAGE_LINK_HERE)
+- [A Picture from Joshua Tree](IMG_9873.jpg)
